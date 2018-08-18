@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Popular Movies</string>
+
+    <!-- Titles -->
+    <!-- Title naming the activity Movie Details -->
+    <string name="title_activity_movie_details" tools:keep="@string/title_activity_movie_details">Movie Details</string>
+
+    <!-- UI text -->
+    <!-- Headline for release date -->
+    <string name="heading_release_date">Release Date</string>
+    <!-- Headline for user vote average -->
+    <string name="heading_vote_average">Vote Average</string>
+    <!-- Runtime text -->
+    <string name="no_release_date_found">No release date found</string>
+    <string name="no_summary_found">No summary was found</string>
+
+    <!-- Some strings used for example layout during design -->
+    <string name="example_original_title">Original Title</string>
+    <string name="example_release_date">16–2–1998</string>
+    <string name="example_vote_average">8.7/10</string>
+    <string name="example_overview">disadoaudoasuodasuduasoiduasudoaudaad dasioduaoudoasudois dasuod uasodasudasoudoasu saoduasoudi das dusa dsdauoidu soduasiod  asuod asd sdasudo asudaso?</string>
+
+    <!-- Lifetime and Bundle -->
+    <string name="parcel_movie">PARCEL_MOVIE</string>
+
+    <!-- Preference items -->
+    <string name="pref_sort_method_key">SORT_METHOD</string>
+    <string name="pref_sort_vote_avg_desc_key">SORT_VOTE_AVERAGE_DESC</string>
+    <string name="pref_sort_pop_desc_key">SORT_POPULARITY_DESC</string>
+
+    <!-- Themoviedb sort strings for url -->
+    <!-- tmdb sort 'popularity.desc' -->
+    <string name="tmdb_sort_pop_desc">popular</string>
+    <!-- tmdb sort 'vote_average.desc' -->
+    <string name="tmdb_sort_vote_avg_desc">top_rated</string>
+    <string name="description_movie_poster">Contains poster of movie</string>
+
+    <!-- Error user information -->
+    <string name="error_need_internet">Error, please check your internet connection and try again.</string>
+</resources>

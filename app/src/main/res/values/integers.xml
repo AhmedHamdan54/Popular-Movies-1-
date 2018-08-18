@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <!-- The movie database sizes found from using browser developer tools -->
+    <integer name="tmdb_poster_w185_width">185</integer>
+    <integer name="tmdb_poster_w185_height">278</integer>
+</resources>

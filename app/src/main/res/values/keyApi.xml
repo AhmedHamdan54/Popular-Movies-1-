@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Key for themoviedb.org -->
+	<string name="key_themoviedb">33ac30d4227f29f9b31be434a174b3eb</string>
+</resources>
